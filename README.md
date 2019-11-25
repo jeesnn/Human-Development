@@ -2,7 +2,7 @@
 Map of Human Development - A Data Visualization Project
 
 ## Background
-The Human Development Index (HDI), published by United Nations Development Program, is a summary measure of average achievement in three key dimensions of a country's human development. The three key variables that go into a country's human development score include: Logn and Healthy Life, Knowledge, and A decent standard of living.
+The Human Development Index (HDI), published by United Nations Development Program, is a summary measure of average achievement in three key dimensions of a country's human development. The three key variables that go into a country's human development score include: Health (Long and Healthy Life), Education (Knowledgeability), and (decent) Standard of Living.
 
 ## Functionality & MVP
 With this data visualization, users will be able to:
