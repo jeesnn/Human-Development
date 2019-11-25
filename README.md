@@ -23,8 +23,8 @@ This project will be implemented with the following technologies:
 * HTML5/CSS3
 
 ## Implementation Timeline
-Day 1: Setup all necessary modules, including getting webpack up and running. Write a basic entry file and create the skeleton of framework. Dedicate day to learn D3.js.
-Day 2: Build out map and graph object.
-Day 3: Build in the ability to toggle the years on slide for each country. 
-Day 4: Style and polish.
+* Day 1: Setup all necessary modules, including getting webpack up and running. Write a basic entry file and create the    skeleton of framework. Dedicate day to learn D3.js.
+* Day 2: Build out map and graph object.
+* Day 3: Build in the ability to toggle the years on slide for each country. 
+* Day 4: Style and polish.
 
