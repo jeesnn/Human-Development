@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("function component() {\n    const element = document.createElement('div');\n\n    // Lodash, currently included via a script, is required for this line to work\n    element.innerHTML = _.join(['Hello', 'webpack'], ' ');\n\n    return element;\n}\n\ndocument.body.appendChild(component());\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("throw new Error(\"Module parse failed: Unexpected token (14:20)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| document.addEventListener(\\\"DOMContentLoaded\\\", () => {\\n|     const rootDiv = document.getElementById(\\\"root\\\");\\n>     ReactDOM.render(<h1>React is working</h1>, rootDiv);\\n| });\");\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
