@@ -13,7 +13,7 @@ module.exports = {
             test: /\.js?$/,  // This will match either .js or .jsx
             exclude: /node_modules/,
             options: {
-                presets: ["@babel/preset-env"]
+                presets: ["@babel/preset-env", '@babel/react']
             },
         }]
     },
